@@ -4,3 +4,4 @@
 ![Screenshot 2025-05-14 211535](https://github.com/user-attachments/assets/2948ee09-d669-401d-95ce-1fc08937e17a)
 ![Bild_2025-05-27_184746067](https://github.com/user-attachments/assets/5d21484e-9d9b-4e1b-866e-e16ee7b73d6b)
 
+<video src='https://github.com/bekirtahagd/bekircraft/blob/main/Clips/bekircraft_own_house.mp4' width=180/>
